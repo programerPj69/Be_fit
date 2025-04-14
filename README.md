@@ -1,6 +1,14 @@
-# Nuxt 3 Minimal Starter
+![image](https://github.com/user-attachments/assets/9a5c88bb-a8b3-4658-ab12-ac4fe8852072)# Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.]
+
+## Live 
+
+https://classy-sunflower-0216f9.netlify.app/
+
+
+![image](https://github.com/user-attachments/assets/bba3c969-6e39-4111-b9ff-8a72eab56ad4)
+
 
 ## Setup
 
@@ -38,5 +46,3 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
