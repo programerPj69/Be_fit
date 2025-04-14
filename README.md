@@ -4,8 +4,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Live 
 
-https://classy-sunflower-0216f9.netlify.app/
-
+https://befitpj.netlify.app/
 
 ![image](https://github.com/user-attachments/assets/bba3c969-6e39-4111-b9ff-8a72eab56ad4)
 
