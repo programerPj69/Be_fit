@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9a5c88bb-a8b3-4658-ab12-ac4fe8852072)# Nuxt 3 Minimal Starter
+# Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.]
 
